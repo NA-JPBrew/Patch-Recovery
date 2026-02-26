@@ -6,7 +6,7 @@ on:
       VENDOR_BOOT_URL:
         description: 'VENDOR_BOOT URL'
         required: true
-        default: 'https://files.catbox.moe/(RECOMMENDED)'
+        default: 'https://files.catbox.moe/j8hxq0.img'
 
 jobs:
   build:
